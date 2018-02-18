@@ -6,7 +6,7 @@ var config= require('./config');
 var T= new Twit(config);
 
 var params= {
-	q: 'rainbow',
+	q: 'thoughts & prayers',
 	count: 2
 }
 
