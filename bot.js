@@ -1,3 +1,5 @@
+// don't forget to put your keys in
+
 console.log("the bot is starting");
 
 var Twit= require('twit');
